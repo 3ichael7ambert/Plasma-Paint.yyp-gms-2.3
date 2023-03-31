@@ -1,0 +1,21 @@
+Converting GML script: ${project_dir}\objects\o_controller\Alarm_9.gml
+Converted string - line 1: 'temp.png' -> "temp.png"
+
+Converting GML script: ${project_dir}\objects\o_controller\Mouse_56.gml
+Converted string - line 1: 'temp.png' -> "temp.png"
+
+Converting GML script: ${project_dir}\objects\o_menu_gfx\Alarm_0.gml
+Converted string - line 8: 'temp' -> "temp"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'background/background_replace.gml'
+Added compatibility script 'background/draw_background_stretched.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
